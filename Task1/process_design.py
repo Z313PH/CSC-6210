@@ -10,6 +10,13 @@ Implements:
     5. Overflow detection for out-of-range inputs
     6. Saturation logic to prevent wrap-around
     7. Configurable output format selection 
+
+
+How to run (examples):
+    cd <project directory>
+    python3 process_design.py 895 BIN
+    python3 process_design.py 123 DEC  
+    python3 process_design.py 21234567844322456781 HEX     
 '''
 
 
