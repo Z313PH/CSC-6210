@@ -5,7 +5,7 @@ Implements:
         unit tests for every feature
 How to run (examples):
     cd <project directory>
-    python3 -m unitest -v     
+    python3 -m unittest -v     
 '''
 
 import unittest
